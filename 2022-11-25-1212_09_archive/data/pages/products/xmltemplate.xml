@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories SYSTEM "xmltemplate.dtd" [
+<!ENTITY m "MCU">
+<!ENTITY p "PlayStation">
+<!ENTITY b "BlueTwelve Studio">
+<!ENTITY n "Bandai Namco Entertainment">
+<!ELEMENT categories (category+)>
+<!ELEMENT category (year,info,studio,cost,rate,others+,review*,Xlink)>
+<!ELEMENT others (producer+)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT info (#PCDATA)>
+<!ELEMENT studio (#PCDATA)>
+<!ELEMENT cost (#PCDATA)>
+<!ELEMENT rate (#PCDATA)>
+<!ELEMENT producer (#PCDATA)>
+<!ELEMENT review (#PCDATA)>
+<!ELEMENT Xlink (#PCDATA)>
+<!ATTLIST category name CDATA #REQUIRED>
+<!ATTLIST voucher code ID #IMPLIED>
+]>
+
+<categories>
+	<category brand="Exmaple">
+		<year>2022</year>
+		<info>Information</info>
+		<studio>entity</studio>
+		<cost>$20</cost>
+		<rate>X out of 10</rate>
+		<others>
+			<producer>company or producer</producer>
+		</others>
+		<voucher code="Code">yes or empty</voucher>
+		<review>rating</review>
+		<review>More rating</review>	
+		<Xlink>website of the movies or games provided</Xlink>
+		
+	</category>
+</categories>
+
+<!--This file belong to Pyae Phyo Zaw, c3412786@uon.edu.au-->

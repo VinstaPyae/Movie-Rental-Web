@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories [
+<!ENTITY p "PlayStation">
+<!ENTITY b "BlueTwelve Studio">
+<!ENTITY n "Bandai Namco Entertainment">
+]>
+<maincontent>
+  <headercontent>
+    <form name="Confirm Data">
+      <fname>Mrs.Brown</fname>
+      <lname>Myint</lname>
+      <email>brownmyint@gmail.com</email>
+      <pre_submit>Yes</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3>4</rating3>
+      <item_name>Super Motherload</item_name>
+      <year>2013</year>
+      <info>PlayStation 4, Personal computer, Microsoft Windows, PlayStation 3</info>
+      <studio>XGen Studios</studio>
+      <cost>50</cost>
+      <rate>8</rate>
+      <review>85</review>
+      <xlink>https://store.steampowered.com/app/1838970/Crush_the_Castle_Legacy_Collection/</xlink>
+    </form>
+    <form name="Confirm Data">
+      <fname>Soe</fname>
+      <lname>Soe</lname>
+      <email>leadingsuphone@gmail.com</email>
+      <pre_submit>Yes, I had sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3>4</rating3>
+      <item_name>Super Motherload</item_name>
+      <year>2013</year>
+      <info>PlayStation 4, Personal computer, Microsoft Windows</info>
+      <studio>XGen Studios</studio>
+      <cost>25</cost>
+      <rate>4</rate>
+      <review>73</review>
+      <xlink>https://store.steampowered.com/app/Crush_the_Castle_Legacy/</xlink>
+    </form>
+    <products name="Confirm Data">
+      <fname>Su Su</fname>
+      <lname>Myint</lname>
+      <email>oswald.lynnmyat@gmail.com</email>
+      <pre_submit>Yes, I had sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3>3</rating3>
+      <item_name>Super Motherload</item_name>
+      <year>2013</year>
+      <info>PlayStation 4, Personal computer, Microsoft Windows, PlayStation 3</info>
+      <studio>XGen Studios</studio>
+      <cost>25</cost>
+      <rate>4</rate>
+      <review>73</review>
+      <xlink>https://store.steampowered.com/app/1838970/Crush_the_Castle_Legacy_Collection/</xlink>
+    </products>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit>Yes, I have Sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3/>
+      <item_name>God of Wars</item_name>
+      <year>2018</year>
+      <info>Open World Game</info>
+      <studio> &p;</studio>
+      <cost>$20</cost>
+      <rate>8</rate>
+      <review>94% Metacritic</review>
+      <review>$500 million Revenue</review>
+      <xlink>https://www.playstation.com/en-sg/games/god-of-war/</xlink>
+      <Picture>data/uploads/gow.jpg</Picture>
+    </form>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit>Yes, I have Sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3/>
+      <item_name>Stray Cat</item_name>
+      <year>2022</year>
+      <info>Popular Game</info>
+      <studio>&b;</studio>
+      <cost>$20</cost>
+      <rate>7</rate>
+      <review>83% Metacritic</review>
+      <review>$44 million Revenue</review>
+      <xlink>https://store.steampowered.com/app/1332010/Stray/</xlink>
+      <Picture>data/uploads/starycat.jpg</Picture>
+    </form>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit>Yes, I have Sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Games.xml</selectcategory>
+      <rating3/>
+      <item_name>Elden Ring</item_name>
+      <year>2022</year>
+      <info>Free Open World Game</info>
+      <studio>&n;</studio>
+      <cost>$20</cost>
+      <rate>9</rate>
+      <review>96% Metacritic</review>
+      <review>$16.6 million Revenue</review>
+      <xlink>https://en.bandainamcoent.eu/elden-ring/elden-ring</xlink>
+      <Picture>data/uploads/eldenring.jpg</Picture>
+    </form>
+  </headercontent>
+</maincontent>
+<!--This file belong to Pyae Phyo Zaw c3412786@uon.edu.au-->

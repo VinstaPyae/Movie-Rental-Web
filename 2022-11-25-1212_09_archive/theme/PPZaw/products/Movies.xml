@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories [
+<!ENTITY m "MCU">
+]>
+<categories>
+	<category name="The Avengers">
+		<year>2012</year>
+		<info>The First Avengers Movie</info>
+		<studio>&m;</studio>
+		<cost>$10</cost>
+		<rate>8</rate>
+		<others>
+			<producer>Joss Whedon</producer>
+		</others>
+		<voucher code="MA1">have</voucher>
+		<review>91% Audience Score</review>
+		<review>91% TOMATOMETER</review>	
+		<review>$1.519 billion box office</review>
+		<Xlink>https://www.rottentomatoes.com/m/marvels_the_avengers</Xlink>
+		<Picture>1-porsche-911-2019-rt-hero-front.jpg</Picture>				
+	</category>
+	<category name="Avengers Age of Ultron">
+		<year>2015</year>
+		<info>Rises of Avengers</info>
+		<studio>&m;</studio>
+		<cost>$10</cost>
+		<rate>8.5</rate>
+		<others>
+			<producer>Joss Whedon</producer>
+		</others>
+		<voucher code="MA2">have</voucher>
+		<review>82% Audience Score</review>
+		<review>76% TOMATOMETER</review>
+		<review>$1.403 billion box office</review>
+		<Xlink>https://www.rottentomatoes.com/m/avengers_age_of_ultron</Xlink>
+	</category>
+	<category name="Infinity War">
+		<year>2018</year>
+		<info>Fallen of Avengers</info>
+		<studio>&m;</studio>
+		<cost>$10</cost>
+		<rate>9</rate>
+		<others>
+			<producer>Anthony Russo, Joe Russo</producer>
+		</others>
+		<review>91% Audience Score</review>
+		<review>82% TOMATOMETER</review>
+		<review>$2.048 billion box office</review>
+		<Xlink>https://www.rottentomatoes.com/m/avengers_infinity_war</Xlink>
+	</category>
+</categories>
+
+<!--This file belong to Pyae Phyo Zaw, c3412786@uon.edu.au-->

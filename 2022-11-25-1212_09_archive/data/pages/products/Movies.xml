@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories [
+<!ENTITY m "MCU">
+]>
+<maincontent>
+  <headercontent>
+    <form name="Confirm Data">
+      <fname>dfefe</fname>
+      <lname>efdf</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit>yes</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3>3</rating3>
+      <item_name>Super Motherload</item_name>
+      <year>2013</year>
+      <info>PlayStation 4, Personal computer, Microsoft Windows, PlayStation 3</info>
+      <studio>XGen Studios</studio>
+      <cost>25</cost>
+      <rate>4</rate>
+      <review>85</review>
+      <xlink>https://www.netflix.com/mm/title/80117526</xlink>
+    </form>
+    <form name="Confirm Data">
+      <fname>Test Category Name</fname>
+      <lname>Myint</lname>
+      <email>developersu30@gmail.com</email>
+      <pre_submit>Yes, I had sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3>3</rating3>
+      <item_name>Sing</item_name>
+      <year>2016</year>
+      <info>Musicals, Kids Music, Family Movies,</info>
+      <studio>Goofy</studio>
+      <cost>50</cost>
+      <rate>8</rate>
+      <review>85</review>
+      <xlink>https://www.netflix.com/mm/title/80117526</xlink>
+      <Picture/>
+    </form>
+    <form name="Confirm Data">
+      <fname>BBB</fname>
+      <lname>bo bo</lname>
+      <email>bo@gmail.com</email>
+      <pre_submit>Yes, I had sent</pre_submit>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3>4</rating3>
+      <item_name>Sing</item_name>
+      <year>2016</year>
+      <info>Musicals, Kids Music, Family Movies,</info>
+      <studio>Goofy</studio>
+      <cost>50</cost>
+      <rate>8</rate>
+      <review>85</review>
+      <xlink>https://www.netflix.com/mm/title/80117526</xlink>
+      <Picture/>
+    </form>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit/>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3/>
+      <item_name>The Avengers</item_name>
+      <year>2012</year>
+      <info>The First Avengers Movie</info>
+      <studio>&m;</studio>
+      <cost>$10</cost>
+      <rate>8</rate>
+      <review>91% Audience Score</review>
+      <review>91% TOMATOMETER</review>
+      <review>$1.519 billion box office</review>
+      <xlink>https://www.rottentomatoes.com/m/marvels_the_avengers</xlink>
+      <Picture>data/uploads/745c9b06-af55-4510-836d-9a320a3f26f9.jpg</Picture>
+    </form>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit/>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3/>
+      <item_name>Avengers Age of Ultron</item_name>
+      <year>2015</year>
+      <info>Rises of Avengers</info>
+      <studio>&m;</studio>
+      <cost>$10</cost>
+      <rate>8.5</rate>
+      <review>82% Audience Score</review>
+      <review>76% TOMATOMETER</review>
+      <review>$1.403 billion box office</review>
+      <xlink>https://www.rottentomatoes.com/m/avengers_age_of_ultron</xlink>
+      <Picture>data/uploads/Avengers-Age-of-Ultron-Poster.jpg</Picture>
+    </form>
+    <form name="Confirm Data">
+      <fname>su phone</fname>
+      <lname>Myint</lname>
+      <email>suphonemyint.la@gmail.com</email>
+      <pre_submit/>
+      <satisfied>yes</satisfied>
+      <selectcategory>Movies.xml</selectcategory>
+      <rating3/>
+      <item_name>Infinity War</item_name>
+      <year>2018</year>
+      <info>Fallen of Avengers</info>
+      <studio>&m;</studio>
+      <cost>$10</cost>
+      <rate>9</rate>
+      <review>91% Audience Score</review>
+      <review>82% TOMATOMETER</review>
+      <review>$2.048 billion box office</review>
+      <xlink>https://www.rottentomatoes.com/m/avengers_infinity_war</xlink>
+      <Picture>data/uploads/B-n_ClcUAAAMdpM.jpg</Picture>
+    </form>
+  </headercontent>
+</maincontent>
+<!--This file belong to Pyae Phyo Zaw, c3412786@uon.edu.au-->

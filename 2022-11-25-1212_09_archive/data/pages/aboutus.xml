@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Nov 2022 04:55:13 +0100</pubDate><title><![CDATA[aboutus]]></title><url><![CDATA[aboutus]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1 id=&quot;AU&quot;&gt;About Us&lt;/h1&gt;
+&lt;!--mailto function allow user send email dicrectly--&gt;
+
+&lt;p&gt;&amp;nbsp; &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Person in charge: Pyae Phyo Zaw&lt;br /&gt;
+	&lt;abbr title=&quot;Student Identification number&quot;&gt;ID&lt;/abbr&gt;: C3412786&lt;br /&gt;
+	email: &lt;a href=&quot;mailto:c3412786@uon.edu.au&quot;&gt;c3412786@uon.edu.au&lt;/a&gt;&lt;br /&gt;
+	Contact number:+6598061369&lt;/p&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[rewind rentals]]></author></item>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Nov 2022 05:00:46 +0100</pubDate><title><![CDATA[movies]]></title><url><![CDATA[movies]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[movies]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1 id=&quot;MV&quot;&gt;&lt;i&gt;Movies&lt;/i&gt;&lt;/h1&gt;
+
+&lt;h4&gt;&lt;i&gt; You can choose.&lt;/i&gt;&lt;/h4&gt;
+
+&lt;div&gt;&lt;abbr title=&quot;The Avengers&quot;&gt;&lt;img alt=&quot;Movies The Avengers&quot; class=&quot;cd&quot; src=&quot;data/uploads/745c9b06-af55-4510-836d-9a320a3f26f9.jpg&quot; /&gt;&lt;/abbr&gt; &lt;abbr title=&quot;Avengers Age of Ultron&quot;&gt;&lt;img alt=&quot;Movies Avengers Age of Ultron&quot; class=&quot;cd&quot; src=&quot;data/uploads/avengers-age-of-ultron-poster.jpg&quot; /&gt;&lt;/abbr&gt; &lt;abbr title=&quot;Infinity War&quot;&gt;&lt;img alt=&quot;Movies Infinity War&quot; class=&quot;cd&quot; src=&quot;data/uploads/b-n_clcuaaamdpm.jpg&quot; /&gt;&lt;/abbr&gt;&lt;/div&gt;
+
+&lt;h3&gt;Movies List. &lt;small style=&quot;font-size:15px;&quot;&gt;&lt;a href=&quot;Movies.xml&quot; target=&quot;_blank&quot;&gt;click for more details&lt;/a&gt;&lt;/small&gt;&lt;/h3&gt;
+
+&lt;ul class=&quot;cdlist&quot;&gt;
+	&lt;li&gt;The Avengers
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$10&lt;/li&gt;
+			&lt;li&gt;10 Days&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.rottentomatoes.com/m/marvels_the_avengers&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Avengers Age of Ultron
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$10&lt;/li&gt;
+			&lt;li&gt;10 Days&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.rottentomatoes.com/m/avengers_age_of_ultron&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Infinity War
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$10&lt;/li&gt;
+			&lt;li&gt;10 Days&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.rottentomatoes.com/m/avengers_infinity_war&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[rewind rentals]]></author></item>

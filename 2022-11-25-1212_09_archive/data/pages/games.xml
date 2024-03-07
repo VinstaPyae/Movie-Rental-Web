@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Fri, 25 Nov 2022 04:56:24 +0100</pubDate><title><![CDATA[games]]></title><url><![CDATA[games]]></url><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><menu><![CDATA[]]></menu><menuOrder><![CDATA[0]]></menuOrder><menuStatus><![CDATA[]]></menuStatus><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><content><![CDATA[&lt;h1 id=&quot;FC&quot;&gt;&lt;i&gt;Games&lt;/i&gt;&lt;/h1&gt;
+
+&lt;h4&gt;&lt;i&gt; You can choose.&lt;/i&gt;&lt;/h4&gt;
+
+&lt;div&gt;&lt;abbr title=&quot;God Of War&quot;&gt;&lt;img alt=&quot;Games God Of War&quot; class=&quot;cd&quot; src=&quot;data/uploads/gow.jpg&quot; /&gt;&lt;/abbr&gt; &lt;abbr title=&quot;Stray Cat&quot;&gt;&lt;img alt=&quot;Games Stray Cat&quot; class=&quot;cd&quot; src=&quot;data/uploads/starycat.jpg&quot; /&gt;&lt;/abbr&gt; &lt;abbr title=&quot;Elden Ring&quot;&gt;&lt;img alt=&quot;Games Elden Ring&quot; class=&quot;cd&quot; src=&quot;data/uploads/eldenring.jpg&quot; /&gt;&lt;/abbr&gt;&lt;/div&gt;
+
+&lt;h3&gt;Games list. &lt;small style=&quot;font-size:15px;&quot;&gt; &lt;a href=&quot;http://localhost/GetSimpleCMS-3.3.16/data/pages/games.xml&quot; target=&quot;_blank&quot;&gt;click for more details&lt;/a&gt;&lt;/small&gt;&lt;/h3&gt;
+
+&lt;ul class=&quot;cdlist&quot;&gt;
+	&lt;li&gt;God Of War
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$20&lt;/li&gt;
+			&lt;li&gt;1 month&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://www.playstation.com/en-sg/games/god-of-war/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Stray Cat
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$20&lt;/li&gt;
+			&lt;li&gt;1 month&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1332010/Stray/&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;Elden Ring
+		&lt;ul class=&quot;cddetails&quot;&gt;
+			&lt;li&gt;$20&lt;/li&gt;
+			&lt;li&gt;1 month&lt;/li&gt;
+			&lt;li&gt;&lt;a href=&quot;https://en.bandainamcoent.eu/elden-ring/elden-ring&quot; target=&quot;_blank&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+]]></content><private><![CDATA[]]></private><author><![CDATA[rewind rentals]]></author></item>
